@@ -260,3 +260,26 @@ footer p {
 .publishers-site-button:hover {
     background-color: #0056b3; /* Darker blue on hover */
 }
+
+/* Header Styles */
+header {
+    background: #004080;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+    font-weight: normal;
+}
+
+header .authors {
+    font-size: 1.2em; /* Slightly smaller than the title */
+    margin: 0px 0; /* Less spacing */
+    color: #ffffff; /* A lighter color to differentiate from the title */
+}
+
