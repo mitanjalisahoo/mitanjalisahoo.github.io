@@ -278,7 +278,7 @@ header h1 {
 }
 
 header .authors {
-    font-size: 1.2em; /* Slightly smaller than the title */
+    font-size: 1.3em; /* Slightly smaller than the title */
     margin: 0px 0; /* Less spacing */
     color: #ffffff; /* A lighter color to differentiate from the title */
 }
