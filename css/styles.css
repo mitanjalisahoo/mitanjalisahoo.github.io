@@ -6,6 +6,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
+    text-align: justify;
 }
 
 .container {
@@ -25,7 +26,7 @@ header {
 
 header h1 {
     margin: 0;
-    font-size: 2.5em;
+    font-size: 2.2em; /* Reduced font size */
     font-weight: normal;
 }
 
@@ -49,7 +50,6 @@ nav a:hover {
     text-decoration: underline;
 }
 
-
 /* Section Styles */
 section {
     background: #fff;
@@ -70,6 +70,11 @@ section p {
     line-height: 1.8;
 }
 
+/* Journal Information Section */
+.journal-info {
+    margin-top: 20px;
+}
+
 /* Publications List */
 ul.publications {
     list-style: none;
@@ -82,7 +87,7 @@ ul.publications li {
     padding: 10px;
     border-left: 4px solid #004080;
     border-radius: 3px;
-    text-align: justify; /* Justify text within list items */
+    text-align: justify;
 }
 
 ul.publications li a {
@@ -94,28 +99,49 @@ ul.publications li a {
 ul.publications li a:hover {
     text-decoration: underline;
 }
-.publications {
-    list-style-type: none; /* Remove default list styling */
-    padding: 0; /* Remove default padding */
-}
 
-.publications li {
-    margin-bottom: 1em; /* Add spacing between list items */
-}
-
-.publications a {
-    text-decoration: none; /* Remove underline from links */
-    color: #007bff; /* Optional: Change link color */
-}
-
-.publications .citation {
-    display: block; /* Make the citation text a block element */
-    font-size: 1em; /* Optional: Slightly smaller font size for citations */
-    color: #000000; /* Optional: Change text color for citations */
-    margin-top: 0.2em; /* Add a small space above the citation */
+ul.publications li .citation {
+    display: block;
+    font-size: 1em;
+    color: #000000;
+    margin-top: 0.2em;
     text-align: justify;
 }
 
+ul.publications li .open-icon {
+    font-size: 1.2em;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+/* Download and Export Citation Buttons */
+.download-button, .export-citation-button {
+    display: inline-block;
+    padding: 12px 24px; /* Larger padding for a bigger button */
+    font-size: 1.1em; /* Match font size with text */
+    color: #fff;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px 0;
+    text-decoration: none;
+    border: none;
+}
+
+.download-button {
+    background-color: #004080;
+}
+
+.download-button:hover {
+    background-color: #003366;
+}
+
+.export-citation-button {
+    background-color: #28a745; /* Green color */
+}
+
+.export-citation-button:hover {
+    background-color: #218838;
+}
 
 /* Footer Styles */
 footer {
@@ -147,14 +173,13 @@ footer p {
 }
 
 .social-icon {
-    width: 40px; /* Adjusted size for square icons */
-    height: 40px; /* Adjusted size for square icons */
+    width: 40px;
+    height: 40px;
     display: block;
     margin: 0 auto;
-    border-radius: 8px; /* Rounded edges */
-    background: #fff; /* Optional: background color for contrast */
+    border-radius: 8px;
+    background: #fff;
 }
-
 
 .social-icons span {
     display: block;
@@ -162,33 +187,26 @@ footer p {
 }
 
 .social-icons a:hover .social-icon {
-    opacity: 0.8; /* Slightly dim the icon on hover */
+    opacity: 0.8;
 }
 
-
-
-
-
-
-
-/* Introduction Section with Profile Photo */
 /* Introduction Section with Profile Photo */
 .intro-container {
     display: flex;
-    align-items: flex-start; /* Align items at the top */
+    align-items: flex-start;
     padding: 20px;
-    gap: 20px; /* Space between the two columns */
+    gap: 20px;
 }
 
 .intro-left {
-    flex: 3; /* Adjust the flex value as needed */
-    max-width: 300px; /* Or any width that suits your design */
-    text-align: center; /* Center-align text and content */
+    flex: 3;
+    max-width: 300px;
+    text-align: center;
 }
 
 .profile-photo {
     width: 75%;
-    height: auto; /* Keep aspect ratio */
+    height: auto;
     border-radius: 50%;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
@@ -203,7 +221,7 @@ footer p {
 }
 
 .profile-details a {
-    color: #004080; /* Match footer color */
+    color: #004080;
     text-decoration: none;
 }
 
@@ -212,8 +230,8 @@ footer p {
 }
 
 .intro-right {
-    flex: 2; /* Adjust the flex value as needed */
-    text-align: justify; /* Justify text within this section */
+    flex: 2;
+    text-align: justify;
 }
 
 .intro-right h2 {
@@ -223,4 +241,22 @@ footer p {
 .intro-right p {
     font-size: 1.1em;
     line-height: 1.8;
+}
+
+/* Publisher's Site Button */
+.publishers-site-button {
+    display: inline-block;
+    padding: 12px 24px; /* Consistent padding */
+    font-size: 1.1em; /* Match font size with text */
+    color: #fff;
+    background-color: #992b03; /* Blue color */
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px 0;
+    border: none;
+}
+
+.publishers-site-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
 }
