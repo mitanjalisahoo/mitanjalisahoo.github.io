@@ -1,0 +1,226 @@
+/* General Styles */
+body {
+    font-family: 'Georgia', serif;
+    background-color: #f7f7f7;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 85%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+/* Header Styles */
+header {
+    background: #004080;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+    font-weight: normal;
+}
+
+/* Navigation Bar Styles */
+nav {
+    margin-top: 20px;
+    text-align: center;
+    background-color: #e6e6e6;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+nav a {
+    color: #004080;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+
+/* Section Styles */
+section {
+    background: #fff;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+    font-size: 1.8em;
+    margin-bottom: 15px;
+    color: #004080;
+}
+
+section p {
+    font-size: 1.1em;
+    line-height: 1.8;
+}
+
+/* Publications List */
+ul.publications {
+    list-style: none;
+    padding: 0;
+}
+
+ul.publications li {
+    background: #f0f0f0;
+    margin: 10px 0;
+    padding: 10px;
+    border-left: 4px solid #004080;
+    border-radius: 3px;
+    text-align: justify; /* Justify text within list items */
+}
+
+ul.publications li a {
+    color: #004080;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+ul.publications li a:hover {
+    text-decoration: underline;
+}
+.publications {
+    list-style-type: none; /* Remove default list styling */
+    padding: 0; /* Remove default padding */
+}
+
+.publications li {
+    margin-bottom: 1em; /* Add spacing between list items */
+}
+
+.publications a {
+    text-decoration: none; /* Remove underline from links */
+    color: #007bff; /* Optional: Change link color */
+}
+
+.publications .citation {
+    display: block; /* Make the citation text a block element */
+    font-size: 1em; /* Optional: Slightly smaller font size for citations */
+    color: #000000; /* Optional: Change text color for citations */
+    margin-top: 0.2em; /* Add a small space above the citation */
+    text-align: justify;
+}
+
+
+/* Footer Styles */
+footer {
+    background: #004080;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 20px;
+    font-size: 0.9em;
+}
+
+footer p {
+    margin: 0;
+    padding: 5px;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin: 10px 0;
+}
+
+.social-icons a {
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+}
+
+.social-icon {
+    width: 40px; /* Adjusted size for square icons */
+    height: 40px; /* Adjusted size for square icons */
+    display: block;
+    margin: 0 auto;
+    border-radius: 8px; /* Rounded edges */
+    background: #fff; /* Optional: background color for contrast */
+}
+
+
+.social-icons span {
+    display: block;
+    margin-top: 5px;
+}
+
+.social-icons a:hover .social-icon {
+    opacity: 0.8; /* Slightly dim the icon on hover */
+}
+
+
+
+
+
+
+
+/* Introduction Section with Profile Photo */
+/* Introduction Section with Profile Photo */
+.intro-container {
+    display: flex;
+    align-items: flex-start; /* Align items at the top */
+    padding: 20px;
+    gap: 20px; /* Space between the two columns */
+}
+
+.intro-left {
+    flex: 3; /* Adjust the flex value as needed */
+    max-width: 300px; /* Or any width that suits your design */
+    text-align: center; /* Center-align text and content */
+}
+
+.profile-photo {
+    width: 75%;
+    height: auto; /* Keep aspect ratio */
+    border-radius: 50%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.profile-details {
+    margin-top: 20px;
+    line-height: 1.6;
+}
+
+.profile-details p {
+    margin: 5px 0;
+}
+
+.profile-details a {
+    color: #004080; /* Match footer color */
+    text-decoration: none;
+}
+
+.profile-details a:hover {
+    text-decoration: underline;
+}
+
+.intro-right {
+    flex: 2; /* Adjust the flex value as needed */
+    text-align: justify; /* Justify text within this section */
+}
+
+.intro-right h2 {
+    margin-top: 0;
+}
+
+.intro-right p {
+    font-size: 1.1em;
+    line-height: 1.8;
+}
