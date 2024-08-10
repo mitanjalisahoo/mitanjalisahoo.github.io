@@ -1,21 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Home Page -->
   <url>
     <loc>https://mitanjalisahoo.github.io/</loc>
     <lastmod>2024-08-10</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <priority>1</priority>
   </url>
+
+  <!-- Research & Publications Page -->
   <url>
     <loc>https://mitanjalisahoo.github.io/research-publications.html</loc>
     <lastmod>2024-08-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
   </url>
+
+  <!-- Contact Page -->
   <url>
     <loc>https://mitanjalisahoo.github.io/contact.html</loc>
     <lastmod>2024-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <!-- Experience Page -->
+  <url>
+    <loc>https://mitanjalisahoo.github.io/experience.html</loc>
+    <lastmod>2024-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Publication Pages -->
+  <url>
+    <loc>https://mitanjalisahoo.github.io/publications/publication1.html</loc>
+    <lastmod>2024-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mitanjalisahoo.github.io/publications/publication2.html</loc>
+    <lastmod>2024-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mitanjalisahoo.github.io/publications/publication3.html</loc>
+    <lastmod>2024-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mitanjalisahoo.github.io/publications/publication4.html</loc>
+    <lastmod>2024-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mitanjalisahoo.github.io/publications/publication5.html</loc>
+    <lastmod>2024-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mitanjalisahoo.github.io/publications/publication6.html</loc>
+    <lastmod>2024-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mitanjalisahoo.github.io/publications/publication7.html</loc>
+    <lastmod>2024-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mitanjalisahoo.github.io/publications/publication8.html</loc>
+    <lastmod>2024-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mitanjalisahoo.github.io/publications/publication9.html</loc>
+    <lastmod>2024-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- PDF Files -->
+  <url>
+    <loc>https://mitanjalisahoo.github.io/pdfs/publication1.pdf</loc>
+    <lastmod>2024-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mitanjalisahoo.github.io/pdfs/publication2.pdf</loc>
+    <lastmod>2024-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mitanjalisahoo.github.io/pdfs/publication3.pdf</loc>
+    <lastmod>2024-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mitanjalisahoo.github.io/pdfs/publication4.pdf</loc>
+    <lastmod>2024-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mitanjalisahoo.github.io/pdfs/publication5.pdf</loc>
+    <lastmod>2024-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mitanjalisahoo.github.io/pdfs/publication6.pdf</loc>
+    <lastmod>2024-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mitanjalisahoo.github.io/pdfs/publication7.pdf</loc>
+    <lastmod>2024-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mitanjalisahoo.github.io/pdfs/publication8.pdf</loc>
+    <lastmod>2024-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mitanjalisahoo.github.io/pdfs/publication9.pdf</loc>
+    <lastmod>2024-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
