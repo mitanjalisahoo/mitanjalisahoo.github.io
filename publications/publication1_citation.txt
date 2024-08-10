@@ -1,1 +1,43 @@
-Kumari,Manisha and Sahoo, Mitanjali (2024). The Conundrum of the Medium of Instruction: The Perspectives of the Stakeholders. Education and Society (UGC CARE Journal). Vol-48, Issue 2, No. 07, ISSN: 2278-6864,  P.P 120-125, April- June 2024. 
+APA
+Kumari, M., & Sahoo, M. (2024). The conundrum of the medium of instruction: The perspectives of the stakeholders. Education and Society (UGC CARE Journal), 48(2), 120-125. ISSN 2278-6864.
+
+IEEE
+[1] M. Kumari and M. Sahoo, "The Conundrum of the Medium of Instruction: The Perspectives of the Stakeholders," Education and Society (UGC CARE Journal), vol. 48, no. 2, pp. 120-125, Apr.-Jun. 2024.
+
+Nature
+Kumari, M. & Sahoo, M. The conundrum of the medium of instruction: The perspectives of the stakeholders. Education and Society (UGC CARE Journal) 48, 120-125 (2024).
+
+MLA
+Kumari, Manisha, and Mitanjali Sahoo. "The Conundrum of the Medium of Instruction: The Perspectives of the Stakeholders." Education and Society (UGC CARE Journal), vol. 48, no. 2, 2024, pp. 120-125. ISSN 2278-6864.
+
+Chicago
+Kumari, Manisha, and Mitanjali Sahoo. "The Conundrum of the Medium of Instruction: The Perspectives of the Stakeholders." Education and Society (UGC CARE Journal) 48, no. 2 (April-June 2024): 120-125. ISSN 2278-6864.
+
+
+RIS
+TY  - JOUR
+AU  - Kumari, Manisha
+AU  - Sahoo, Mitanjali
+PY  - 2024
+TI  - The Conundrum of the Medium of Instruction: The Perspectives of the Stakeholders
+JO  - Education and Society (UGC CARE Journal)
+VL  - 48
+IS  - 2
+SP  - 120
+EP  - 125
+SN  - 2278-6864
+PY  - 2024
+ER  - 
+
+
+BibTeX
+@article{Kumari2024,
+  author    = {Manisha Kumari and Mitanjali Sahoo},
+  title     = {The Conundrum of the Medium of Instruction: The Perspectives of the Stakeholders},
+  journal   = {Education and Society (UGC CARE Journal)},
+  volume    = {48},
+  number    = {2},
+  pages     = {120--125},
+  year      = {2024},
+  issn      = {2278-6864}
+}
