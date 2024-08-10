@@ -14,10 +14,15 @@
         <h1>Dr. Mitanjali Sahoo</h1>
     </header>
     <nav>
-        <a href="index.html">Home</a>
-        <a href="research-publications.html">Research</a>
-        <a href="experience.html" class="active">Experience</a>
-        <a href="contact.html">Contact</a>
+        <button class="nav-toggle" aria-label="Toggle navigation">
+            &#9776; <!-- This is the hamburger icon (three horizontal lines) -->
+        </button>
+        <div class="nav-dropdown">
+            <a href="index.html">Home</a>
+            <a href="research-publications.html">Research</a>
+            <a href="experience.html">Experience</a>
+            <a href="contact.html">Contact</a>
+        </div>
     </nav>
     <section id="experience">
         <h2>Teaching Experience</h2>
@@ -148,4 +153,15 @@
         </div>
     </footer>
 </body>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+    const navToggle = document.querySelector('.nav-toggle');
+    const navDropdown = document.querySelector('.nav-dropdown');
+
+    navToggle.addEventListener('click', function () {
+        navDropdown.classList.toggle('show');
+    });
+});
+
+</script>
 </html>
