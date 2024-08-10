@@ -1,1 +1,41 @@
+APA
 Sahoo, M., & Rinki. (2018). Accountability of elementary school teachers. Education Plus: A Peer Reviewed International Journal of Education and Humanities, 9(8), 158-164. ISSN 2277-2405.
+
+IEEE
+[1] M. Sahoo and Rinki, "Accountability of Elementary School Teachers," Education Plus: A Peer Reviewed International Journal of Education and Humanities, vol. 9, no. 8, pp. 158-164, 2018.
+
+Nature
+Sahoo, M. & Rinki. Accountability of elementary school teachers. Education Plus: A Peer Reviewed International Journal of Education and Humanities 9, 158-164 (2018).
+
+MLA
+Sahoo, M., and Rinki. "Accountability of Elementary School Teachers." Education Plus: A Peer Reviewed International Journal of Education and Humanities, vol. 9, no. 8, 2018, pp. 158-164. ISSN 2277-2405.
+
+Chicago
+Sahoo, M., and Rinki. "Accountability of Elementary School Teachers." Education Plus: A Peer Reviewed International Journal of Education and Humanities 9, no. 8 (2018): 158-164. ISSN 2277-2405.
+
+RIS
+TY  - JOUR
+AU  - Sahoo, M.
+AU  - Rinki
+PY  - 2018
+TI  - Accountability of Elementary School Teachers
+JO  - Education Plus: A Peer Reviewed International Journal of Education and Humanities
+VL  - 9
+IS  - 8
+SP  - 158
+EP  - 164
+SN  - 2277-2405
+PY  - 2018
+ER  - 
+
+BibTeX
+@article{Sahoo2018,
+  author    = {M. Sahoo and Rinki},
+  title     = {Accountability of Elementary School Teachers},
+  journal   = {Education Plus: A Peer Reviewed International Journal of Education and Humanities},
+  volume    = {9},
+  number    = {8},
+  pages     = {158--164},
+  year      = {2018},
+  issn      = {2277-2405}
+}

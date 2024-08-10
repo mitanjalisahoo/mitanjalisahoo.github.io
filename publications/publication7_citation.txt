@@ -1,1 +1,42 @@
-Kumari Manisha & Sahoo, Mitanjali.  (2022). Implementation of Content and Language Integrated Learning in the Indian Classrooms for promoting multilingualism. International Journal of Advanced Research (IJAR), (Peer Reviewed), 10(04), Page no. 85-93. ISSN No. 2320-5407, April 2022.
+APA
+Kumari, M., & Sahoo, M. (2022). Implementation of content and language integrated learning in the Indian classrooms for promoting multilingualism. International Journal of Advanced Research (IJAR), 10(04), 85-93. ISSN 2320-5407.
+
+IEEE
+[1] M. Kumari and M. Sahoo, "Implementation of Content and Language Integrated Learning in the Indian Classrooms for Promoting Multilingualism," International Journal of Advanced Research (IJAR), vol. 10, no. 04, pp. 85-93, Apr. 2022.
+
+Nature
+Kumari, M. & Sahoo, M. Implementation of content and language integrated learning in the Indian classrooms for promoting multilingualism. International Journal of Advanced Research (IJAR) 10, 85-93 (2022).
+
+MLA
+Kumari, Manisha, and Mitanjali Sahoo. "Implementation of Content and Language Integrated Learning in the Indian Classrooms for Promoting Multilingualism." International Journal of Advanced Research (IJAR), vol. 10, no. 04, April 2022, pp. 85-93. ISSN 2320-5407.
+
+Chicago
+Kumari, Manisha, and Mitanjali Sahoo. "Implementation of Content and Language Integrated Learning in the Indian Classrooms for Promoting Multilingualism." International Journal of Advanced Research (IJAR) 10, no. 04 (April 2022): 85-93. ISSN 2320-5407.
+
+RIS
+TY  - JOUR
+AU  - Kumari, Manisha
+AU  - Sahoo, Mitanjali
+PY  - 2022
+TI  - Implementation of Content and Language Integrated Learning in the Indian Classrooms for Promoting Multilingualism
+JO  - International Journal of Advanced Research (IJAR)
+VL  - 10
+IS  - 04
+SP  - 85
+EP  - 93
+SN  - 2320-5407
+PY  - 2022
+ER  - 
+
+
+BibTeX
+@article{Kumari2022,
+  author    = {Manisha Kumari and Mitanjali Sahoo},
+  title     = {Implementation of Content and Language Integrated Learning in the Indian Classrooms for Promoting Multilingualism},
+  journal   = {International Journal of Advanced Research (IJAR)},
+  volume    = {10},
+  number    = {04},
+  pages     = {85--93},
+  year      = {2022},
+  issn      = {2320-5407}
+}

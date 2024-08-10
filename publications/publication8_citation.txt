@@ -1,1 +1,39 @@
+APA
 Kumari, S., & Sahoo, M. (2022). Role of career counselling in fostering career maturity among higher secondary school students in India. International Journal of Arts, Humanities and Social Studies, 4(1), 170-175.
+
+IEEE
+[1] S. Kumari and M. Sahoo, "Role of Career Counselling in Fostering Career Maturity Among Higher Secondary School Students in India," International Journal of Arts, Humanities and Social Studies, vol. 4, no. 1, pp. 170-175, 2022.
+
+Nature
+Kumari, S. & Sahoo, M. Role of career counselling in fostering career maturity among higher secondary school students in India. International Journal of Arts, Humanities and Social Studies 4, 170-175 (2022).
+
+MLA
+Kumari, S., and Mitanjali Sahoo. "Role of Career Counselling in Fostering Career Maturity Among Higher Secondary School Students in India." International Journal of Arts, Humanities and Social Studies, vol. 4, no. 1, 2022, pp. 170-175.
+
+Chicago
+Kumari, S., and Mitanjali Sahoo. "Role of Career Counselling in Fostering Career Maturity Among Higher Secondary School Students in India." International Journal of Arts, Humanities and Social Studies 4, no. 1 (2022): 170-175.
+
+RIS
+TY  - JOUR
+AU  - Kumari, S.
+AU  - Sahoo, M.
+PY  - 2022
+TI  - Role of Career Counselling in Fostering Career Maturity Among Higher Secondary School Students in India
+JO  - International Journal of Arts, Humanities and Social Studies
+VL  - 4
+IS  - 1
+SP  - 170
+EP  - 175
+ER  - 
+
+
+BibTeX
+@article{Kumari2022,
+  author    = {S. Kumari and M. Sahoo},
+  title     = {Role of Career Counselling in Fostering Career Maturity Among Higher Secondary School Students in India},
+  journal   = {International Journal of Arts, Humanities and Social Studies},
+  volume    = {4},
+  number    = {1},
+  pages     = {170--175},
+  year      = {2022}
+}
