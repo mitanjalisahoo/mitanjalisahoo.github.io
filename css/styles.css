@@ -22,12 +22,19 @@ header {
     padding: 20px 0;
     text-align: center;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    position: relative;
 }
 
 header h1 {
     margin: 0;
     font-size: 2.2em; /* Reduced font size */
     font-weight: normal;
+}
+
+header .authors {
+    font-size: 1.3em; /* Slightly smaller than the title */
+    margin: 0px 0; /* Less spacing */
+    color: #ffffff; /* A lighter color to differentiate from the title */
 }
 
 /* Navigation Bar Styles */
@@ -261,27 +268,6 @@ footer p {
     background-color: #0056b3; /* Darker blue on hover */
 }
 
-/* Header Styles */
-header {
-    background: #004080;
-    color: #fff;
-    padding: 20px 0;
-    text-align: center;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    position: relative;
-}
-
-header h1 {
-    margin: 0;
-    font-size: 2.5em;
-    font-weight: normal;
-}
-
-header .authors {
-    font-size: 1.3em; /* Slightly smaller than the title */
-    margin: 0px 0; /* Less spacing */
-    color: #ffffff; /* A lighter color to differentiate from the title */
-}
 /* Experience Section */
 .experience-section {
     background: #f9f9f9;
@@ -311,4 +297,75 @@ header .authors {
     font-size: 1em;
     line-height: 1.8;
     margin: 0;
+}
+
+/* Media Queries */
+
+/* Styles for devices with a max width of 768px (Tablets and smaller screens) */
+@media (max-width: 768px) {
+    .container {
+        width: 95%;
+    }
+
+    header h1 {
+        font-size: 1.8em; /* Smaller font size for smaller screens */
+    }
+
+    nav {
+        padding: 5px;
+    }
+
+    nav a {
+        font-size: 0.9em; /* Slightly smaller font size */
+        margin: 0 10px; /* Less margin */
+    }
+
+    .intro-container {
+        flex-direction: column; /* Stack elements vertically */
+        text-align: center; /* Center text */
+    }
+
+    .profile-photo {
+        width: 50%; /* Smaller profile photo */
+    }
+
+    .publishers-site-button, .download-button, .export-citation-button {
+        padding: 10px 20px; /* Smaller button padding */
+        font-size: 1em; /* Slightly smaller font size */
+    }
+}
+
+/* Styles for devices with a max width of 480px (Mobile phones) */
+@media (max-width: 480px) {
+    header {
+        padding: 15px 0; /* Less padding for mobile */
+    }
+
+    header h1 {
+        font-size: 1.5em; /* Even smaller font size */
+    }
+
+    .container {
+        width: 100%; /* Full width for mobile */
+        padding: 10px; /* Less padding */
+    }
+
+    nav a {
+        display: block; /* Stack links vertically */
+        margin: 5px 0; /* Adjust margin */
+    }
+
+    .intro-container {
+        gap: 10px; /* Less gap */
+    }
+
+    .profile-photo {
+        width: 60%; /* Adjust profile photo size */
+    }
+
+    .publishers-site-button, .download-button, .export-citation-button {
+        width: 100%; /* Full width buttons */
+        padding: 10px; /* Adjust padding */
+        font-size: 0.9em; /* Smaller font size */
+    }
 }
