@@ -39,6 +39,7 @@ header .authors {
 
 /* Navigation Bar Styles */
 nav {
+    position: relative; /* Position relative to manage dropdown positioning */
     margin-top: 20px;
     text-align: center;
     background-color: #e6e6e6;
@@ -46,14 +47,30 @@ nav {
     border-radius: 5px;
 }
 
-nav a {
+.nav-toggle {
+    display: none; /* Hide by default, show on mobile */
+    background-color: #004080;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    font-size: 1.1em;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.nav-dropdown {
+    display: flex; /* Show links in a row by default */
+    justify-content: center;
+    gap: 15px;
+}
+
+.nav-dropdown a {
     color: #004080;
     text-decoration: none;
-    margin: 0 15px;
     font-weight: bold;
 }
 
-nav a:hover {
+.nav-dropdown a:hover {
     text-decoration: underline;
 }
 
@@ -356,64 +373,18 @@ footer p {
     }
 
     .intro-container {
-        gap: 10px; /* Less gap */
+        gap: 10px; /* Less gap between elements */
     }
 
     .profile-photo {
-        width: 60%; /* Adjust profile photo size */
-    }
-
-    .publishers-site-button, .download-button, .export-citation-button {
-        width: 100%; /* Full width buttons */
-        padding: 10px; /* Adjust padding */
-        font-size: 0.9em; /* Smaller font size */
-    }
-}
-/* Navigation Bar Styles */
-nav {
-    position: relative; /* Position relative to manage dropdown positioning */
-}
-
-/* Dropdown Toggle Button */
-.nav-toggle {
-    display: none; /* Hide by default, show on mobile */
-    background-color: #004080;
-    color: #fff;
-    border: none;
-    padding: 10px 15px;
-    font-size: 1.1em;
-    cursor: pointer;
-    border-radius: 5px;
-}
-
-/* Dropdown Menu */
-.nav-dropdown {
-    display: flex; /* Show links in a row by default */
-    justify-content: center;
-    gap: 15px;
-}
-
-.nav-dropdown a {
-    color: #004080;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-.nav-dropdown a:hover {
-    text-decoration: underline;
-}
-
-/* Media Queries */
-@media (max-width: 768px) {
-    .nav-toggle {
-        display: block; /* Show toggle button on mobile */
+        width: 60%; /* Adjust size for mobile */
     }
 
     .nav-dropdown {
         display: none; /* Hide dropdown by default on mobile */
         flex-direction: column; /* Stack links vertically */
         position: absolute;
-        top: 50px; /* Position it below the header */
+        top: 60px; /* Position it below the header */
         right: 10px; /* Align it to the right */
         background-color: #e6e6e6;
         border-radius: 5px;
@@ -423,11 +394,11 @@ nav {
         text-align: center; /* Center align text */
     }
 
-    .nav-dropdown a {
-        margin: 10px 0; /* Margin for vertical stacking */
-    }
-
     .nav-dropdown.show {
         display: flex; /* Show the dropdown when active */
+    }
+
+    .nav-toggle {
+        display: block; /* Show toggle button on mobile */
     }
 }
