@@ -1,1 +1,42 @@
-Kumari Manisha & Sahoo, Mitanjali. (2022). Challenges in Implementation of Content Integrated Language Instruction at Elementary School Level. Pedagogy of Learning, International Refereed/ Peer Reviewed Journal of Education, Vol.8(2). E-ISSN: 2395-7344, Page No. 1-8, April 2022
+APA
+Kumari, M., & Sahoo, M. (2022). Challenges in implementation of content integrated language instruction at elementary school level. Pedagogy of Learning: International Refereed/Peer Reviewed Journal of Education, 8(2), 1-8. E-ISSN 2395-7344.
+
+IEEE
+[1] M. Kumari and M. Sahoo, "Challenges in Implementation of Content Integrated Language Instruction at Elementary School Level," Pedagogy of Learning: International Refereed/Peer Reviewed Journal of Education, vol. 8, no. 2, pp. 1-8, Apr. 2022.
+
+Nature
+Kumari, M. & Sahoo, M. Challenges in implementation of content integrated language instruction at elementary school level. Pedagogy of Learning: International Refereed/Peer Reviewed Journal of Education 8, 1-8 (2022).
+
+MLA
+Kumari, Manisha, and Mitanjali Sahoo. "Challenges in Implementation of Content Integrated Language Instruction at Elementary School Level." Pedagogy of Learning: International Refereed/Peer Reviewed Journal of Education, vol. 8, no. 2, April 2022, pp. 1-8. E-ISSN 2395-7344.
+
+Chicago
+Kumari, Manisha, and Mitanjali Sahoo. "Challenges in Implementation of Content Integrated Language Instruction at Elementary School Level." Pedagogy of Learning: International Refereed/Peer Reviewed Journal of Education 8, no. 2 (April 2022): 1-8. E-ISSN 2395-7344.
+
+RIS
+TY  - JOUR
+AU  - Kumari, Manisha
+AU  - Sahoo, Mitanjali
+PY  - 2022
+TI  - Challenges in Implementation of Content Integrated Language Instruction at Elementary School Level
+JO  - Pedagogy of Learning: International Refereed/Peer Reviewed Journal of Education
+VL  - 8
+IS  - 2
+SP  - 1
+EP  - 8
+E1  - 2395-7344
+PY  - 2022
+ER  - 
+
+
+BibTeX
+@article{Kumari2022,
+  author    = {Manisha Kumari and Mitanjali Sahoo},
+  title     = {Challenges in Implementation of Content Integrated Language Instruction at Elementary School Level},
+  journal   = {Pedagogy of Learning: International Refereed/Peer Reviewed Journal of Education},
+  volume    = {8},
+  number    = {2},
+  pages     = {1--8},
+  year      = {2022},
+  eissn     = {2395-7344}
+}

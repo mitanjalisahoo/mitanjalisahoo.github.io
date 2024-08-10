@@ -1,1 +1,41 @@
-Sahoo, Mitanjali. & Kumar, Prasoon (2022). Effectiveness of Educational Guidance on Educational Interest of Secondary School Students. Education India: A Quarterly Refereed Journal of Dialogues on Education, A UGC-CARE List Journal, Vol.11, Issue-3, Page No. 01-16, ISSN. 2278-2435, August 2022
+APA
+Sahoo, M., & Kumar, P. (2022). Effectiveness of educational guidance on educational interest of secondary school students. Education India: A Quarterly Refereed Journal of Dialogues on Education, 11(3), 01-16. ISSN 2278-2435.
+
+IEEE
+[1] M. Sahoo and P. Kumar, "Effectiveness of Educational Guidance on Educational Interest of Secondary School Students," Education India: A Quarterly Refereed Journal of Dialogues on Education, vol. 11, no. 3, pp. 01-16, Aug. 2022.
+
+Nature
+Sahoo, M. & Kumar, P. Effectiveness of educational guidance on educational interest of secondary school students. Education India: A Quarterly Refereed Journal of Dialogues on Education 11, 01-16 (2022).
+
+MLA
+Sahoo, Mitanjali, and Prasoon Kumar. "Effectiveness of Educational Guidance on Educational Interest of Secondary School Students." Education India: A Quarterly Refereed Journal of Dialogues on Education, vol. 11, no. 3, August 2022, pp. 01-16. ISSN 2278-2435.
+
+Chicago
+Sahoo, Mitanjali, and Prasoon Kumar. "Effectiveness of Educational Guidance on Educational Interest of Secondary School Students." Education India: A Quarterly Refereed Journal of Dialogues on Education 11, no. 3 (August 2022): 01-16. ISSN 2278-2435.
+
+RIS
+TY  - JOUR
+AU  - Sahoo, Mitanjali
+AU  - Kumar, Prasoon
+PY  - 2022
+TI  - Effectiveness of Educational Guidance on Educational Interest of Secondary School Students
+JO  - Education India: A Quarterly Refereed Journal of Dialogues on Education
+VL  - 11
+IS  - 3
+SP  - 01
+EP  - 16
+SN  - 2278-2435
+PY  - 2022
+ER  - 
+
+BibTeX
+@article{Sahoo2022,
+  author    = {Mitanjali Sahoo and Prasoon Kumar},
+  title     = {Effectiveness of Educational Guidance on Educational Interest of Secondary School Students},
+  journal   = {Education India: A Quarterly Refereed Journal of Dialogues on Education},
+  volume    = {11},
+  number    = {3},
+  pages     = {01--16},
+  year      = {2022},
+  issn      = {2278-2435}
+}

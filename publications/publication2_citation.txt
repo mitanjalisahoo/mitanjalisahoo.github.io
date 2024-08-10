@@ -1,1 +1,41 @@
-Kumari, Smita & Sahoo, Mitanjali (2023). Career Counselling Program in School Curriculum at Higher Secondary School Stage. The Ravenshaw Journal of Educational Studies. Volume 12, Issue 1, ISSN: 2319-7374, p.p 66-71, June 2023.
+APA
+Kumari, S., & Sahoo, M. (2023). Career counselling program in school curriculum at higher secondary school stage. The Ravenshaw Journal of Educational Studies, 12(1), 66-71. ISSN 2319-7374.
+
+IEEE
+[1] S. Kumari and M. Sahoo, "Career Counselling Program in School Curriculum at Higher Secondary School Stage," The Ravenshaw Journal of Educational Studies, vol. 12, no. 1, pp. 66-71, Jun. 2023.
+
+Nature
+Kumari, S. & Sahoo, M. Career counselling program in school curriculum at higher secondary school stage. The Ravenshaw Journal of Educational Studies 12, 66-71 (2023).
+
+MLA
+Kumari, Smita, and Mitanjali Sahoo. "Career Counselling Program in School Curriculum at Higher Secondary School Stage." The Ravenshaw Journal of Educational Studies, vol. 12, no. 1, June 2023, pp. 66-71. ISSN 2319-7374.
+
+Chicago
+Kumari, Smita, and Mitanjali Sahoo. "Career Counselling Program in School Curriculum at Higher Secondary School Stage." The Ravenshaw Journal of Educational Studies 12, no. 1 (June 2023): 66-71. ISSN 2319-7374.
+
+RIS:
+TY  - JOUR
+AU  - Kumari, Smita
+AU  - Sahoo, Mitanjali
+PY  - 2023
+TI  - Career Counselling Program in School Curriculum at Higher Secondary School Stage
+JO  - The Ravenshaw Journal of Educational Studies
+VL  - 12
+IS  - 1
+SP  - 66
+EP  - 71
+SN  - 2319-7374
+PY  - 2023
+ER  - 
+
+BibTeX
+@article{Kumari2023,
+  author    = {Smita Kumari and Mitanjali Sahoo},
+  title     = {Career Counselling Program in School Curriculum at Higher Secondary School Stage},
+  journal   = {The Ravenshaw Journal of Educational Studies},
+  volume    = {12},
+  number    = {1},
+  pages     = {66--71},
+  year      = {2023},
+  issn      = {2319-7374}
+}

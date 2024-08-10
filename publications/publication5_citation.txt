@@ -1,1 +1,42 @@
-Osin & Sahoo, Mitanjali. (2022). Performance-based Assessment in Science at Elementary School Level. International Journal of Advance and Applied Research., (Peer Reviewed) Vol.9 No.5, ISSN- 2347-7075, Page No. 646-650, May-June 2022.
+APA
+Osin, & Sahoo, M. (2022). Performance-based assessment in science at elementary school level. International Journal of Advance and Applied Research, 9(5), 646-650. ISSN 2347-7075.
+
+IEEE
+[1] Osin and M. Sahoo, "Performance-based Assessment in Science at Elementary School Level," International Journal of Advance and Applied Research, vol. 9, no. 5, pp. 646-650, May-June 2022.
+
+Nature
+Osin & Sahoo, M. Performance-based assessment in science at elementary school level. International Journal of Advance and Applied Research 9, 646-650 (2022).
+
+MLA
+Osin, and Mitanjali Sahoo. "Performance-Based Assessment in Science at Elementary School Level." International Journal of Advance and Applied Research, vol. 9, no. 5, May-June 2022, pp. 646-650. ISSN 2347-7075.
+
+Chicago
+Osin and Mitanjali Sahoo. "Performance-Based Assessment in Science at Elementary School Level." International Journal of Advance and Applied Research 9, no. 5 (May-June 2022): 646-650. ISSN 2347-7075.
+
+RIS
+TY  - JOUR
+AU  - Osin
+AU  - Sahoo, Mitanjali
+PY  - 2022
+TI  - Performance-based Assessment in Science at Elementary School Level
+JO  - International Journal of Advance and Applied Research
+VL  - 9
+IS  - 5
+SP  - 646
+EP  - 650
+SN  - 2347-7075
+PY  - 2022
+ER  - 
+
+
+BibTeX
+@article{Osin2022,
+  author    = {Osin and Mitanjali Sahoo},
+  title     = {Performance-based Assessment in Science at Elementary School Level},
+  journal   = {International Journal of Advance and Applied Research},
+  volume    = {9},
+  number    = {5},
+  pages     = {646--650},
+  year      = {2022},
+  issn      = {2347-7075}
+}
