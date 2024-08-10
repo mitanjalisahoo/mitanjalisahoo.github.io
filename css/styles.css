@@ -58,6 +58,13 @@ nav {
     border-radius: 5px;
 }
 
+.menu-text {
+    font-size: 1em; /* Adjust font size as needed */
+    color: #004080;
+    margin-left: 10px; /* Space between icon and text */
+    margin-right: 20px; /* Space between text and dropdown */
+}
+
 .nav-dropdown {
     display: flex; /* Show links in a row by default */
     justify-content: center;
@@ -139,7 +146,7 @@ ul.publications li .open-icon {
 }
 
 /* Download and Export Citation Buttons */
-.download-button, .export-citation-button {
+.download-button, .export-citation-button, .publishers-site-button {
     display: inline-block;
     padding: 12px 24px; /* Larger padding for a bigger button */
     font-size: 1.1em; /* Match font size with text */
@@ -165,6 +172,15 @@ ul.publications li .open-icon {
 
 .export-citation-button:hover {
     background-color: #218838;
+}
+
+/* Publisher's Site Button */
+.publishers-site-button {
+    background-color: #992b03; /* Blue color */
+}
+
+.publishers-site-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
 }
 
 /* Footer Styles */
@@ -265,55 +281,6 @@ footer p {
 .intro-right p {
     font-size: 1.1em;
     line-height: 1.8;
-}
-
-/* Publisher's Site Button */
-.publishers-site-button {
-    display: inline-block;
-    padding: 12px 24px; /* Consistent padding */
-    font-size: 1.1em; /* Match font size with text */
-    color: #fff;
-    background-color: #992b03; /* Blue color */
-    text-decoration: none;
-    border-radius: 5px;
-    text-align: center;
-    margin: 10px 0;
-    border: none;
-}
-
-.publishers-site-button:hover {
-    background-color: #0056b3; /* Darker blue on hover */
-}
-
-/* Experience Section */
-.experience-section {
-    background: #f9f9f9;
-    padding: 20px;
-    margin: 20px 0;
-    border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
-
-.experience-section h2 {
-    font-size: 1.3em;
-    margin-bottom: 15px;
-    color: #004080;
-}
-
-.experience-item {
-    margin-bottom: 15px;
-}
-
-.experience-item h3 {
-    font-size: 1.2em;
-    margin-bottom: 5px;
-    color: #333;
-}
-
-.experience-item p {
-    font-size: 1em;
-    line-height: 1.8;
-    margin: 0;
 }
 
 /* Media Queries */
