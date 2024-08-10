@@ -13,6 +13,9 @@ body {
     width: 85%;
     margin: 0 auto;
     padding-top: 20px;
+    word-wrap: break-word;      /* Add this */
+    word-break: break-all;      /* Add this */
+    overflow-wrap: break-word;  /* Add this */
 }
 
 /* Header Styles */
@@ -57,6 +60,9 @@ section {
     margin: 20px 0;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    word-wrap: break-word;      /* Add this */
+    word-break: break-all;      /* Add this */
+    overflow-wrap: break-word;  /* Add this */
 }
 
 section h2 {
@@ -68,11 +74,17 @@ section h2 {
 section p {
     font-size: 1.1em;
     line-height: 1.8;
+    word-wrap: break-word;      /* Add this */
+    word-break: break-all;      /* Add this */
+    overflow-wrap: break-word;  /* Add this */
 }
 
 /* Journal Information Section */
 .journal-info {
     margin-top: 20px;
+    word-wrap: break-word;      /* Add this */
+    word-break: break-all;      /* Add this */
+    overflow-wrap: break-word;  /* Add this */
 }
 
 /* Publications List */
@@ -88,6 +100,9 @@ ul.publications li {
     border-left: 4px solid #004080;
     border-radius: 3px;
     text-align: justify;
+    word-wrap: break-word;      /* Add this */
+    word-break: break-all;      /* Add this */
+    overflow-wrap: break-word;  /* Add this */
 }
 
 ul.publications li a {
@@ -106,12 +121,9 @@ ul.publications li .citation {
     color: #000000;
     margin-top: 0.2em;
     text-align: justify;
-}
-
-ul.publications li .open-icon {
-    font-size: 1.2em;
-    vertical-align: middle;
-    margin-left: 10px;
+    word-wrap: break-word;      /* Add this */
+    word-break: break-all;      /* Add this */
+    overflow-wrap: break-word;  /* Add this */
 }
 
 /* Download and Export Citation Buttons */
@@ -282,4 +294,3 @@ header .authors {
     margin: 0px 0; /* Less spacing */
     color: #ffffff; /* A lighter color to differentiate from the title */
 }
-
